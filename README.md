@@ -29,7 +29,7 @@
 </div>
 <a href="https://www.linkedin.com/in/reinhard-kiprop-15a52a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/Absolom24-7/Absolom24-7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/WorldWaysOneDevelopers254/WorldWaysOneDevelopers254/blob/output/github-contribution-grid-snake.svg)
   
   
 </div>
